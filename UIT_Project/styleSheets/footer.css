@@ -1,0 +1,19 @@
+footer{
+    background-color: black;
+    color:gainsboro;
+    
+}
+footer>div{
+    display: inline-grid;
+    /* width: 30%; */
+    justify-content: space-around;
+}
+footer b{
+    color: whitesmoke;
+}
+footer li{
+    list-style-type: none;
+    line-height: 190%;
+    font-size: 80%;
+
+}
